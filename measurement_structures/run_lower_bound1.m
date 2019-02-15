@@ -1,0 +1,8 @@
+clear %clear previous variables
+
+
+load_variables1; %Load the list of Bell inequalities used in this project
+
+d=2; %Set the dimension
+Inow=I3322; %Set the inequality that will be analysed (in the full probability form)
+lower_bound=maxBell_qudit_lower1(Inow,d);
