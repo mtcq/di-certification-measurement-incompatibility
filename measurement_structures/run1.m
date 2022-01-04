@@ -2,7 +2,7 @@ clear %clear previous variables
 
 
 load_variables1; %Load the list of Bell inequalities used in this project
-level=3; %Set the NPA hiearchy level that will be used
+level=2; %Set the NPA hiearchy level that will be used
 
 Inow=I3322; %Set the inequality that will be analysed (in the full probability form)
 
