@@ -92,13 +92,3 @@ TableNS=[LNS_inter minLNS_ij LNS_U LNS_2conv]
 
 'Table with Q LQ_inter minLQ_ij LQ_U LQ_2conv LNS_inter minLNS_ij LNS_U LNS_2conv'
 Table_Total=[Q LQ_inter minLQ_ij LQ_U LQ_2conv LNS_inter minLNS_ij LNS_U LNS_2conv]
-
-
-
-
-
-
-
-
-
-
